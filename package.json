@@ -20,5 +20,8 @@
   "homepage": "https://github.com/erik465/goit-node-hw-01",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
   }
 }
